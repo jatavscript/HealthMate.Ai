@@ -68,11 +68,7 @@ After hospital discharge, many patients lack guidance and emotional support. The
 
 ---
 
-## 📷 Screenshots
 
-> *(Add UI images, dashboard previews, or feature highlights here)*
-
----
 
 ## ⚙️ How It Works
 
