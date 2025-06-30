@@ -112,7 +112,7 @@ For production use in healthcare, further compliance (e.g., HIPAA, GDPR) is requ
 
 ## 🔗 Project Links
 
-- 🔥 **Devpost:** [https://devpost.com/software/healthmate-ai-2deq5k?ref_content=my-projects-tab&ref_feature=my_projects]
+- 🔥 **Devpost:** https://devpost.com/software/healthmate-ai-2deq5k?ref_content=my-projects-tab&ref_feature=my_projects
 - 🌐 **Live Demo:** [Add Netlify/Expo link if hosted]
 - 📹 **Demo Video:** [https://youtu.be/TLK5fV4T3NI?si=70TmagAhEr_XxIFD]
 - 💻 **Source Code:** [GitHub repo link]
